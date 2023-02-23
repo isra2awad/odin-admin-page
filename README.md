@@ -1,1 +1,1 @@
-# odin-admin-page
+# admin-page
